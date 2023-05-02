@@ -1,7 +1,9 @@
 # FEWDFinalProject
 final group project with Jaclyn, Sidy, Melinda, George, &amp; Ana
 
-## Back
+
+<img width="1055" alt="Screenshot 2023-05-01 at 8 26 34 PM" src="https://user-images.githubusercontent.com/123264793/235554436-f47c748b-90d2-4abc-b277-c36339c4c879.png">
+
 
 ## key partners could be one page - Ana
   mission statement
