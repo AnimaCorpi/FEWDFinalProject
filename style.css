@@ -1,1 +1,36 @@
+.nav {
+    list-style-type:none;
+    margin: 15px;
+    padding: 0;
+    overflow: hidden;
+    display:flex;
+    direction:row;
+    justify-content:space-between;
+    background-color: aqua;
+    color: blue;
+    padding:15px;
+    font-weight: bold;
+    
+}
+.home{
+    margin-right:15px;
+}
+.shelter{
+    margin-right:15px;
+    margin-left:15px;
+    
+}
+.job{
+    margin-left:15px;
+    margin-right: 15px;
+}
 
+.edu{
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.health{
+    margin-left:15px;
+    margin-right:15px;
+}
