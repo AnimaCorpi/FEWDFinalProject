@@ -10,7 +10,8 @@
   color: blue;
   padding:15px;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration:none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .home{
   margin-top: 20px;
