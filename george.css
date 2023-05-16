@@ -1,0 +1,36 @@
+h1 {text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.Unemployment{
+    display: flex;
+justify-content: center;
+
+}
+
+.Benefits{
+    font-size: 25px
+    
+}
+
+.Vet{
+    font-size: 25px
+
+}
+
+.Jobby{
+    display: flex;
+    justify-content: right;
+
+}
+.popchop{display: flex;
+    justify-content: right;
+}
