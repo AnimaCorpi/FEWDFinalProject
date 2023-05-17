@@ -1,3 +1,4 @@
+ /* everyones page*/
 .nav {
   list-style-type:none;
   margin: 15px;
@@ -70,8 +71,88 @@ body {
   background-image: url('anaimgs/transparent.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-attachment: scroll;
+  background-attachment: fixed;
   text-align: center;
   font-weight: bolder;
   color: rgb(97, 72, 24);
 }
+h2{text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+  font-size: larger;
+  }
+.list{
+  font-size: larger;
+}
+ /* georges page*/
+.Unemployment{
+  justify-content: right;
+  font-size: larger
+  }
+  .Unemployment table {
+      padding: 15px;
+  }
+  .Unemployment td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .Benefits{
+      font-size: larger;    
+  }
+  .Benefits table {
+      padding: 15px;
+  }
+  .Benefits td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .Vet{
+      font-size: larger;  
+  }
+  .Vet table {
+      padding: 15px;
+  }
+  .Vet td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  
+  .Jobby{
+      justify-content: right;
+  
+  }
+  .Jobby ul{
+      font-size: larger;  
+  }
+  .Jobby table {
+      padding: 15px;
+  }
+  .Jobby td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .popchop{
+      display: flex;
+      justify-content: right;
+  }
+  .forms{
+    justify-content: center;
+ }
+
+ /* anas page*/
+ .forms table{
+     padding: 25%;
+     font-size: larger;
+ }
+ .tables{
+     text-align: center;
+     padding-left: 30%;
+ }
+ .tables2{
+     text-align: center;
+     padding-left: 10%;
+     padding-right: 20%;
+ }
