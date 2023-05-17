@@ -215,14 +215,14 @@ p {
       white-space: nowrap;
     }
      /* Prevent photos inside tables from overflowing */
-  table img {
-    max-width: 100%;
-    height: auto;
-  }
-  .tables2 img {
-    height: 200px;
-    width: 200px;
-  }
+     table img {
+      max-width: 50%;
+      height: auto;
+    }
+    .tables2 img {
+      height: 150px;
+      width: 150px;
+    }
    /* Keep the buttons at the desired height and width */
    .forms .button-cell img {
     width: 300px;
@@ -246,12 +246,12 @@ p {
   }
    /* Prevent photos inside tables from overflowing */
 table img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 .tables2 img {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
    /* Keep the buttons at the desired height and width */
    .forms .button-cell img {
