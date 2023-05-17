@@ -216,8 +216,8 @@ p {
     }
      /* Prevent photos inside tables from overflowing */
      table img {
-      max-width: 50%;
-      height: auto;
+      height: 100px;
+      width: 125px;
     }
     .tables2 img {
       height: 100px;
@@ -246,8 +246,8 @@ p {
   }
    /* Prevent photos inside tables from overflowing */
    table img {
-    max-width: 50%;
-    height: auto;
+    height: 100px;
+    width: 125px;
   }
   .tables2 img {
     height: 100px;
