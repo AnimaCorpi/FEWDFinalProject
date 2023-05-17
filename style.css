@@ -215,6 +215,10 @@ p {
     max-width: 100%;
     height: auto;
   }
+  .tables2 img {
+    height: 200px;
+    width: 200px;
+  }
    /* Keep the buttons at the desired height and width */
    .forms .button-cell img {
     width: 300px;
@@ -240,6 +244,10 @@ p {
 table img {
   max-width: 100%;
   height: auto;
+}
+.tables2 img {
+  height: 200px;
+  width: 200px;
 }
    /* Keep the buttons at the desired height and width */
    .forms .button-cell img {
