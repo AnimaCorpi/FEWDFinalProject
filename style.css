@@ -91,7 +91,75 @@ p {
 .list {
   font-size: larger;
 }
+ /* georges page*/
+ .Unemployment{
+  justify-content: right;
+  font-size: larger
+  }
+  .Unemployment table {
+      padding: 15px;
+  }
+  .Unemployment td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .Benefits{
+      font-size: larger;    
+  }
+  .Benefits table {
+      padding: 15px;
+  }
+  .Benefits td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .Vet{
+      font-size: larger;  
+  }
+  .Vet table {
+      padding: 15px;
+  }
+  .Vet td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  
+  .Jobby{
+      justify-content: right;
+  
+  }
+  .Jobby ul{
+      font-size: larger;  
+  }
+  .Jobby table {
+      padding: 15px;
+  }
+  .Jobby td,tr {
+      padding-left: 30px;
+      padding-right: 20px;
+  }
+  .popchop{
+      display: flex;
+      justify-content: right;
+  }
+  .forms{
+    justify-content: center;
+ }
 
+ /* anas page*/
+ .forms table{
+     padding: 25%;
+     font-size: larger;
+ }
+ .tables{
+     text-align: center;
+     padding-left: 30%;
+ }
+ .tables2{
+     text-align: center;
+     padding-left: 10%;
+     padding-right: 20%;
+ }
 /* Media queries for responsiveness */
 
 /* For screens up to 600px */
@@ -99,7 +167,7 @@ p {
   .nav {
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+    align-items: center;
   }
 
   .home, .shelter, .job, .edu, .health {
