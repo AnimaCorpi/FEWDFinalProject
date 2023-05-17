@@ -18,11 +18,6 @@
   overflow-x: auto;
   white-space: nowrap;
 }
- /* Prevent photos inside tables from overflowing */
-table img {
-max-width: 100%;
-height: auto;
-}
 
 .home {
   margin-top: 20px;
