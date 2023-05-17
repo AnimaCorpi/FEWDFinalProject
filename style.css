@@ -57,7 +57,7 @@
   grid-row-end: auto;
 }
 .navbar {
-  float: left;
+  float: center;
   display: block;
   width: 100%;
 }
